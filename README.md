@@ -1,6 +1,6 @@
 # CBC API - Teste Técnico
 
-API RESTful em PHP puro para gerenciamento de recursos financeiros de clubes.
+API REST em PHP para gerenciamento de recursos financeiros de clubes.
 
 ## Requisitos
 
@@ -53,6 +53,6 @@ API RESTful em PHP puro para gerenciamento de recursos financeiros de clubes.
 - Os clubes são cadastrados via API.
 - O sistema impede consumo de recursos se o saldo do clube for insuficiente.
 
----
+
 
 Desenvolvido para o Comitê Brasileiro de Clubes (CBC)
